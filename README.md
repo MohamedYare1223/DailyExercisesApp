@@ -22,3 +22,7 @@ Now come to the details or meditation page, Top of the page has a title with a s
 ### Daily Exercises App Final UI
 
 ![App UI](/ui.png)
+![dcf435ae-dd55-4a75-8b44-4b8b1dad6029](https://user-images.githubusercontent.com/124422621/216757217-b1bcd35e-b52e-464f-b847-164c93d0cdc4.jpg)
+
+![WhatsApp Image 2023-02-03 at 9 38 31 PM](https://user-images.githubusercontent.com/124422621/216757242-640178de-fc7e-4e01-bcf1-d40d3aeffd5a.jpeg)
+
